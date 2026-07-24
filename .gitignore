@@ -1,0 +1,5 @@
+# Ignore secrets and local user database
+.env
+users.json
+__pycache__/
+*.pyc
